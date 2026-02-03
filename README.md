@@ -1,16 +1,28 @@
-## Hi there 👋
+Hello,
+I'm Dipesh
 
-<!--
-**dipeshmandloi/dipeshmandloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET MAUI | Mobile App Developer | C# | Backend APIs
 
-Here are some ideas to get you started:
+I build cross-platform Android & iOS apps using modern Microsoft stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently working as Software Developer  
+ Open for freelance & contract projects
+
+=> Skills & Technologies
+• .NET MAUI
+• .NET MAUI Blazor Hybrid
+• C#
+• XAML
+• Razor
+• MVVM
+• ASP.NET Core Web API
+• SQLite
+• SQL Server
+• REST APIs
+
+=> What I build
+• Business Apps
+• E-commerce Apps
+• API-integrated Mobile Apps
+
+Let's build something awesome together!
